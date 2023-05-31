@@ -1,8 +1,11 @@
 # wearemin
 Wearemin - A Bluetooth Wearable Theremin-like-instrument
 First time creating a public github repository...
+
 Printables model https://www.printables.com/model/493077-wearemin-a-bluetooth-wearable-theremin-like-instru
+
 Ohshape printed parts https://cad.onshape.com/documents/0d0a24b4e2c86f02219e36fc/w/3666db507762cade373f59c3/e/f5e392f91edd37cb51f9ae51
+
 youtube video https://youtu.be/JclrQr_ucIw
 
 
