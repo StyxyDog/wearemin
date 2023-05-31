@@ -1,5 +1,6 @@
 # wearemin
 Wearemin - A Bluetooth Wearable Theremin-like-instrument
+
 First time creating a public github repository...
 
 Printables model https://www.printables.com/model/493077-wearemin-a-bluetooth-wearable-theremin-like-instru
